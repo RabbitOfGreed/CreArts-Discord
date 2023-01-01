@@ -82,7 +82,7 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/jungle.css"); /**/
 
 /* ⭕ Hive Edition */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/hive.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/hive.css"); /**/
 
 /* ⭕ Coffee Edition */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/palette/crearts/coffee.css"); /**/
@@ -173,7 +173,7 @@
 /* ╚══════════════════════════╩═════════════════════════════════╝ */
 
 /* ⭕ Slim Squircle */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/slim/squircle.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/slim/squircle.css"); /**/
 
 /* ⭕ Slim Square */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/skins/shape/slim/square.css"); /**/
@@ -188,7 +188,7 @@
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* ✅ Combined */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/left/combined.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/left/combined.css"); /**/
 
 /* ⭕ Divided */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/left/divided.css"); /**/
@@ -220,7 +220,7 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/default.css"); /**/
 
 /* ⭕ Buttons */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/buttons.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/top/buttons.css"); /**/
 
 /* ╔══════════════════════════╦═════════════════════════════════╗ */
 /* ║ 1.3 Alignment            ║ Bottom                          ║ */
